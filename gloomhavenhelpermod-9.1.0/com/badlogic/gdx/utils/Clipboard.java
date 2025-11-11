@@ -1,0 +1,9 @@
+package com.badlogic.gdx.utils;
+
+public interface Clipboard {
+   boolean hasContents();
+
+   String getContents();
+
+   void setContents(String var1);
+}

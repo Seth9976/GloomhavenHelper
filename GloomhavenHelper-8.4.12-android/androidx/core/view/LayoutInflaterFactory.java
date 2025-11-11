@@ -1,0 +1,11 @@
+package androidx.core.view;
+
+import android.content.Context;
+import android.util.AttributeSet;
+import android.view.View;
+
+@Deprecated
+public interface LayoutInflaterFactory {
+    View onCreateView(View arg1, String arg2, Context arg3, AttributeSet arg4);
+}
+

@@ -1,0 +1,37 @@
+package org.lwjgl.openal;
+
+import org.lwjgl.system.Checks;
+import org.lwjgl.system.JNI;
+import org.lwjgl.system.NativeType;
+
+public class SOFTDeferredUpdates {
+   public static final int AL_DEFERRED_UPDATES_SOFT = 49154;
+
+   protected SOFTDeferredUpdates() {
+      throw new UnsupportedOperationException();
+   }
+
+   static boolean isAvailable(ALCapabilities caps) {
+      return Checks.checkFunctions(caps.alDeferUpdatesSOFT, caps.alProcessUpdatesSOFT);
+   }
+
+   @NativeType("ALvoid")
+   public static void alDeferUpdatesSOFT() {
+      long __functionAddress = AL.getICD().alDeferUpdatesSOFT;
+      if (Checks.CHECKS) {
+         Checks.check(__functionAddress);
+      }
+
+      JNI.invokeV(__functionAddress);
+   }
+
+   @NativeType("ALvoid")
+   public static void alProcessUpdatesSOFT() {
+      long __functionAddress = AL.getICD().alProcessUpdatesSOFT;
+      if (Checks.CHECKS) {
+         Checks.check(__functionAddress);
+      }
+
+      JNI.invokeV(__functionAddress);
+   }
+}

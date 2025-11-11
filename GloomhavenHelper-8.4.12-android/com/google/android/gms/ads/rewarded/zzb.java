@@ -1,0 +1,5 @@
+package com.google.android.gms.ads.rewarded;
+
+final class zzb {
+}
+

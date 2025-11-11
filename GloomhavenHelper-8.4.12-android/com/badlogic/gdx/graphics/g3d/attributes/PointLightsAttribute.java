@@ -1,0 +1,60 @@
+package com.badlogic.gdx.graphics.g3d.attributes;
+
+import com.badlogic.gdx.graphics.g3d.Attribute;
+import com.badlogic.gdx.graphics.g3d.environment.PointLight;
+import com.badlogic.gdx.utils.Array;
+
+public class PointLightsAttribute extends Attribute {
+    public static final String Alias = "pointLights";
+    public static final long Type;
+    public final Array lights;
+
+    static {
+        PointLightsAttribute.Type = PointLightsAttribute.register("pointLights");
+    }
+
+    public PointLightsAttribute() {
+        super(PointLightsAttribute.Type);
+        this.lights = new Array(1);
+    }
+
+    public PointLightsAttribute(PointLightsAttribute pointLightsAttribute0) {
+        this.lights.addAll(pointLightsAttribute0.lights);
+    }
+
+    public int compareTo(Attribute attribute0) {
+        if(this.type != attribute0.type) {
+            return this.type >= attribute0.type ? 1 : -1;
+        }
+        return 0;
+    }
+
+    @Override
+    public int compareTo(Object object0) {
+        return this.compareTo(((Attribute)object0));
+    }
+
+    @Override  // com.badlogic.gdx.graphics.g3d.Attribute
+    public Attribute copy() {
+        return this.copy();
+    }
+
+    public PointLightsAttribute copy() {
+        return new PointLightsAttribute(this);
+    }
+
+    @Override  // com.badlogic.gdx.graphics.g3d.Attribute
+    public int hashCode() {
+        int v = super.hashCode();
+        for(Object object0: this.lights) {
+            PointLight pointLight0 = (PointLight)object0;
+            v = v * 0x4CF + (pointLight0 == null ? 0 : pointLight0.hashCode());
+        }
+        return v;
+    }
+
+    public static final boolean is(long v) {
+        return (PointLightsAttribute.Type & v) == v;
+    }
+}
+
