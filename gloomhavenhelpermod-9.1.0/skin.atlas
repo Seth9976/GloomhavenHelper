@@ -1,0 +1,4218 @@
+
+skin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abilities/air
+  rotate: false
+  xy: 1633, 580
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+abilities/air-medium
+  rotate: false
+  xy: 1922, 1564
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+abilities/any
+  rotate: false
+  xy: 1679, 626
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+abilities/any-medium
+  rotate: false
+  xy: 1920, 696
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+abilities/aoe-4-with-black
+  rotate: false
+  xy: 1975, 1101
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+abilities/aoe-arc-3
+  rotate: false
+  xy: 1038, 769
+  size: 86, 71
+  orig: 86, 71
+  offset: 0, 0
+  index: -1
+abilities/aoe-circle
+  rotate: false
+  xy: 1635, 1
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+abilities/aoe-circle-with-middle-black
+  rotate: false
+  xy: 1975, 1443
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+abilities/aoe-circle-with-side-black
+  rotate: false
+  xy: 1975, 1372
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+abilities/aoe-line-3-with-black
+  rotate: false
+  xy: 1975, 1019
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+abilities/aoe-line-4-with-black
+  rotate: false
+  xy: 1728, 1279
+  size: 31, 102
+  orig: 31, 102
+  offset: 0, 0
+  index: -1
+abilities/aoe-line-6-with-black
+  rotate: false
+  xy: 1776, 1628
+  size: 91, 142
+  orig: 91, 142
+  offset: 0, 0
+  index: -1
+abilities/aoe-triangle-2-side
+  rotate: false
+  xy: 1820, 1271
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+abilities/aoe-triangle-2-side-with-black
+  rotate: false
+  xy: 1813, 1197
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+abilities/aoe-triangle-3-side-with-corner-black
+  rotate: false
+  xy: 1975, 1301
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+abilities/attack
+  rotate: false
+  xy: 1899, 650
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+abilities/attack-medium
+  rotate: false
+  xy: 1628, 739
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+abilities/attack-small
+  rotate: false
+  xy: 1888, 306
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+abilities/bless
+  rotate: false
+  xy: 1649, 546
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/bless-small
+  rotate: false
+  xy: 1664, 887
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/boss-aoe-elder-drake-sp1
+  rotate: false
+  xy: 1975, 1161
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+abilities/boss-aoe-inox-bodyguard-sp1
+  rotate: false
+  xy: 1975, 1230
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+abilities/boss-aoe-sightless-eye-sp1
+  rotate: false
+  xy: 1975, 1050
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+abilities/boss-aoe-sightless-eye-sp2
+  rotate: false
+  xy: 1819, 1527
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+abilities/curse
+  rotate: false
+  xy: 1857, 563
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/curse-medium
+  rotate: false
+  xy: 2019, 953
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/curse-small
+  rotate: false
+  xy: 1901, 1107
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/dark
+  rotate: false
+  xy: 1723, 625
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+abilities/dark-medium
+  rotate: false
+  xy: 1899, 614
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+abilities/disarm
+  rotate: false
+  xy: 1859, 494
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/disarm-medium
+  rotate: false
+  xy: 2019, 923
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/disarm-small
+  rotate: false
+  xy: 1851, 368
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/earth
+  rotate: false
+  xy: 1767, 625
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+abilities/earth-medium
+  rotate: false
+  xy: 1935, 588
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+abilities/fire
+  rotate: false
+  xy: 1811, 627
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+abilities/fire-medium
+  rotate: false
+  xy: 1855, 597
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+abilities/flying
+  rotate: false
+  xy: 1568, 547
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+abilities/flying-medium
+  rotate: false
+  xy: 1893, 1440
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+abilities/flying-small
+  rotate: false
+  xy: 1822, 368
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+abilities/heal
+  rotate: false
+  xy: 1902, 1071
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+abilities/heal-medium
+  rotate: false
+  xy: 1978, 18
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+abilities/heal-small
+  rotate: false
+  xy: 1942, 1812
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+abilities/ice
+  rotate: false
+  xy: 1855, 633
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+abilities/ice-medium
+  rotate: false
+  xy: 1864, 992
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+abilities/immobilize
+  rotate: false
+  xy: 1859, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/immobilize-medium
+  rotate: false
+  xy: 1683, 560
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/immobilize-small
+  rotate: false
+  xy: 1874, 368
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/invisible
+  rotate: false
+  xy: 1895, 544
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/invisible-medium
+  rotate: false
+  xy: 1931, 362
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/invisible-small
+  rotate: false
+  xy: 1953, 309
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/jump
+  rotate: false
+  xy: 1863, 964
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+abilities/light
+  rotate: false
+  xy: 1975, 975
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+abilities/light-medium
+  rotate: false
+  xy: 1751, 589
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+abilities/loot
+  rotate: false
+  xy: 2019, 983
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+abilities/move
+  rotate: false
+  xy: 1886, 1235
+  size: 40, 34
+  orig: 44, 34
+  offset: 2, 0
+  index: -1
+abilities/move-medium
+  rotate: false
+  xy: 1823, 425
+  size: 32, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+abilities/move-small
+  rotate: false
+  xy: 1932, 1834
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+abilities/muddle
+  rotate: false
+  xy: 1929, 554
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/muddle-medium
+  rotate: false
+  xy: 1888, 328
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/muddle-small
+  rotate: false
+  xy: 1976, 309
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/pierce
+  rotate: false
+  xy: 1929, 520
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/pierce-medium
+  rotate: false
+  xy: 1918, 328
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/pierce-small
+  rotate: false
+  xy: 1919, 957
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/poison
+  rotate: false
+  xy: 1893, 485
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/poison-medium
+  rotate: false
+  xy: 1948, 332
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/poison-small
+  rotate: false
+  xy: 1909, 934
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/pull
+  rotate: false
+  xy: 1822, 391
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/pull-medium
+  rotate: false
+  xy: 1958, 279
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/pull-small
+  rotate: false
+  xy: 1988, 286
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/push
+  rotate: false
+  xy: 1856, 391
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/push-medium
+  rotate: false
+  xy: 1958, 249
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/push-small
+  rotate: false
+  xy: 1988, 263
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/range
+  rotate: false
+  xy: 2018, 887
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+abilities/range-medium
+  rotate: false
+  xy: 1902, 1042
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+abilities/range-medium-black
+  rotate: false
+  xy: 1904, 1158
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+abilities/range-small
+  rotate: false
+  xy: 1963, 565
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+abilities/range-small-black
+  rotate: false
+  xy: 1855, 1505
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+abilities/regenerate
+  rotate: false
+  xy: 1882, 426
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/regenerate-medium
+  rotate: false
+  xy: 1958, 219
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/regenerate-small
+  rotate: false
+  xy: 1988, 240
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/retaliate
+  rotate: false
+  xy: 2018, 851
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+abilities/retaliate-medium
+  rotate: false
+  xy: 1857, 425
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+abilities/retaliate-medium-black
+  rotate: false
+  xy: 1904, 1130
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+abilities/retaliate-small
+  rotate: false
+  xy: 1999, 25
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+abilities/retaliate-small-black
+  rotate: false
+  xy: 1927, 498
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+abilities/shield
+  rotate: false
+  xy: 1614, 546
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+abilities/shield-medium
+  rotate: false
+  xy: 1628, 711
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+abilities/shield-medium-black
+  rotate: false
+  xy: 1978, 74
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+abilities/shield-small
+  rotate: false
+  xy: 1910, 306
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+abilities/shield-small-black
+  rotate: false
+  xy: 1963, 521
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+abilities/shuffle
+  rotate: false
+  xy: 461, 4
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+abilities/strengthen
+  rotate: false
+  xy: 1890, 392
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/strengthen-medium
+  rotate: false
+  xy: 1958, 189
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/strengthen-small
+  rotate: false
+  xy: 1988, 217
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/stun
+  rotate: false
+  xy: 1916, 426
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/stun-medium
+  rotate: false
+  xy: 1975, 159
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/stun-small
+  rotate: false
+  xy: 1988, 194
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/target-medium
+  rotate: false
+  xy: 1975, 101
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+abilities/target-medium-black
+  rotate: false
+  xy: 1978, 47
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+abilities/target-small
+  rotate: false
+  xy: 1999, 4
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+abilities/target-small-black
+  rotate: false
+  xy: 1899, 960
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+abilities/teleport
+  rotate: false
+  xy: 1893, 1468
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+abilities/teleport-medium
+  rotate: false
+  xy: 1900, 999
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+abilities/teleport-small
+  rotate: false
+  xy: 1932, 306
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+abilities/use
+  rotate: false
+  xy: 1860, 1142
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+abilities/use-medium
+  rotate: false
+  xy: 1823, 490
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+abilities/wound
+  rotate: false
+  xy: 1924, 392
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/wound-medium
+  rotate: false
+  xy: 1975, 129
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/wound-small
+  rotate: false
+  xy: 1963, 542
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack/back
+  rotate: false
+  xy: 1, 1174
+  size: 437, 296
+  orig: 437, 296
+  offset: 0, 0
+  index: -1
+attack/back-empty
+  rotate: false
+  xy: 1614, 1383
+  size: 153, 102
+  orig: 158, 107
+  offset: 2, 3
+  index: -1
+attack/bless
+  rotate: false
+  xy: 1, 876
+  size: 437, 296
+  orig: 437, 296
+  offset: 0, 0
+  index: -1
+attack/border
+  rotate: false
+  xy: 1761, 1375
+  size: 6, 6
+  split: 2, 2, 2, 2
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+attack/curse
+  rotate: false
+  xy: 440, 1174
+  size: 437, 296
+  orig: 437, 296
+  offset: 0, 0
+  index: -1
+attack/doubleAttack
+  rotate: false
+  xy: 1, 578
+  size: 437, 296
+  orig: 437, 296
+  offset: 0, 0
+  index: -1
+attack/minus1
+  rotate: false
+  xy: 440, 876
+  size: 437, 296
+  orig: 437, 296
+  offset: 0, 0
+  index: -1
+attack/minus2
+  rotate: false
+  xy: 1, 280
+  size: 437, 296
+  orig: 437, 296
+  offset: 0, 0
+  index: -1
+attack/nullAttack
+  rotate: false
+  xy: 440, 578
+  size: 437, 296
+  orig: 437, 296
+  offset: 0, 0
+  index: -1
+attack/plus0
+  rotate: false
+  xy: 440, 280
+  size: 437, 296
+  orig: 437, 296
+  offset: 0, 0
+  index: -1
+attack/plus1
+  rotate: false
+  xy: 1116, 1483
+  size: 437, 296
+  orig: 437, 296
+  offset: 0, 0
+  index: -1
+attack/plus2
+  rotate: false
+  xy: 1132, 1185
+  size: 437, 296
+  orig: 437, 296
+  offset: 0, 0
+  index: -1
+attack/selected
+  rotate: false
+  xy: 1874, 1504
+  size: 44, 43
+  split: 22, 20, 21, 20
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+bless-large
+  rotate: false
+  xy: 1928, 1517
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 1796, 1487
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+blood-large
+  rotate: false
+  xy: 1707, 677
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+checkbox
+  rotate: false
+  xy: 296, 1
+  size: 31, 31
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+checkbox-checked
+  rotate: false
+  xy: 1909, 889
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+checkbox-checked-over
+  rotate: false
+  xy: 1942, 966
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+class-bgs/Scoundrel
+  rotate: false
+  xy: 1, 1894
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+class-bgs/Spellweaver
+  rotate: false
+  xy: 1, 1739
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+class-icons/BeastTyrant
+  rotate: false
+  xy: 1571, 825
+  size: 91, 83
+  orig: 97, 97
+  offset: 3, 7
+  index: -1
+class-icons/Berserker
+  rotate: false
+  xy: 1800, 78
+  size: 80, 90
+  orig: 97, 97
+  offset: 9, 3
+  index: -1
+class-icons/Bladeswarm
+  rotate: false
+  xy: 1824, 724
+  size: 65, 80
+  orig: 97, 97
+  offset: 16, 8
+  index: -1
+class-icons/Brute
+  rotate: false
+  xy: 1869, 1600
+  size: 86, 80
+  orig: 97, 97
+  offset: 6, 8
+  index: -1
+class-icons/Cragheart
+  rotate: false
+  xy: 1543, 673
+  size: 83, 88
+  orig: 97, 97
+  offset: 7, 4
+  index: -1
+class-icons/Demolitionist
+  rotate: false
+  xy: 1891, 732
+  size: 62, 74
+  orig: 97, 97
+  offset: 18, 12
+  index: -1
+class-icons/Diviner
+  rotate: false
+  xy: 1769, 1345
+  size: 76, 52
+  orig: 97, 97
+  offset: 11, 23
+  index: -1
+class-icons/Doomstalker
+  rotate: false
+  xy: 1657, 719
+  size: 82, 83
+  orig: 97, 97
+  offset: 8, 7
+  index: -1
+class-icons/Elementalist
+  rotate: false
+  xy: 1664, 804
+  size: 84, 81
+  orig: 97, 97
+  offset: 7, 8
+  index: -1
+class-icons/Escort
+  rotate: false
+  xy: 1761, 1280
+  size: 57, 63
+  orig: 97, 97
+  offset: 20, 16
+  index: -1
+class-icons/Hatchet
+  rotate: false
+  xy: 1750, 804
+  size: 67, 81
+  orig: 97, 97
+  offset: 14, 10
+  index: -1
+class-icons/Mindthief
+  rotate: false
+  xy: 1958, 1588
+  size: 89, 83
+  orig: 97, 97
+  offset: 4, 7
+  index: -1
+class-icons/Nightshroud
+  rotate: false
+  xy: 1769, 1399
+  size: 85, 86
+  orig: 97, 97
+  offset: 6, 5
+  index: -1
+class-icons/Objective
+  rotate: false
+  xy: 1975, 1514
+  size: 72, 72
+  orig: 97, 97
+  offset: 14, 13
+  index: -1
+class-icons/Plagueherald
+  rotate: false
+  xy: 1636, 73
+  size: 67, 91
+  orig: 97, 97
+  offset: 15, 3
+  index: -1
+class-icons/Quartermaster
+  rotate: false
+  xy: 1567, 72
+  size: 67, 92
+  orig: 97, 97
+  offset: 15, 2
+  index: -1
+class-icons/RedGuard
+  rotate: false
+  xy: 1803, 1
+  size: 66, 75
+  orig: 97, 97
+  offset: 18, 10
+  index: -1
+class-icons/Sawbones
+  rotate: false
+  xy: 1709, 4
+  size: 92, 68
+  orig: 97, 97
+  offset: 3, 14
+  index: -1
+class-icons/Scoundrel
+  rotate: false
+  xy: 1741, 718
+  size: 81, 84
+  orig: 97, 97
+  offset: 8, 6
+  index: -1
+class-icons/Soothsinger
+  rotate: false
+  xy: 1882, 16
+  size: 79, 79
+  orig: 97, 97
+  offset: 9, 9
+  index: -1
+class-icons/Spellweaver
+  rotate: false
+  xy: 1689, 974
+  size: 93, 93
+  orig: 97, 97
+  offset: 2, 2
+  index: -1
+class-icons/Summoner
+  rotate: false
+  xy: 1958, 1764
+  size: 89, 90
+  orig: 97, 97
+  offset: 4, 3
+  index: -1
+class-icons/Sunkeeper
+  rotate: false
+  xy: 1882, 97
+  size: 91, 90
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+class-icons/Tinkerer
+  rotate: false
+  xy: 1869, 1682
+  size: 87, 88
+  orig: 97, 97
+  offset: 5, 4
+  index: -1
+class-icons/Voidwarden
+  rotate: false
+  xy: 1784, 1023
+  size: 78, 78
+  orig: 97, 97
+  offset: 9, 9
+  index: -1
+cloud
+  rotate: false
+  xy: 879, 763
+  size: 157, 77
+  orig: 157, 77
+  offset: 0, 0
+  index: -1
+conditions/disarm
+  rotate: false
+  xy: 1935, 660
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/disarm-large
+  rotate: false
+  xy: 1928, 1423
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/doom
+  rotate: false
+  xy: 1935, 624
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/doom-large
+  rotate: false
+  xy: 1928, 1376
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/hatchet
+  rotate: false
+  xy: 1891, 578
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/hatchet-large
+  rotate: false
+  xy: 1928, 1329
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/immobilize
+  rotate: false
+  xy: 1679, 590
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/immobilize-large
+  rotate: false
+  xy: 1928, 1282
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/invisible
+  rotate: false
+  xy: 1715, 589
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/invisible-large
+  rotate: false
+  xy: 1928, 1235
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/muddle
+  rotate: false
+  xy: 1787, 589
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/muddle-large
+  rotate: false
+  xy: 1928, 1188
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/poison
+  rotate: false
+  xy: 1713, 553
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/poison-large
+  rotate: false
+  xy: 1928, 1141
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/regenerate
+  rotate: false
+  xy: 1749, 553
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/regenerate-large
+  rotate: false
+  xy: 1928, 1094
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/shield-large
+  rotate: false
+  xy: 1787, 671
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+conditions/star
+  rotate: false
+  xy: 1859, 528
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+conditions/star-large
+  rotate: false
+  xy: 1633, 624
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+conditions/strengthen
+  rotate: false
+  xy: 1785, 553
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/strengthen-large
+  rotate: false
+  xy: 1928, 1047
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/stun
+  rotate: false
+  xy: 1823, 526
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/stun-large
+  rotate: false
+  xy: 1928, 1000
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/summon-large
+  rotate: false
+  xy: 1658, 670
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+conditions/summonNew
+  rotate: false
+  xy: 1928, 818
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+conditions/wound
+  rotate: false
+  xy: 1823, 454
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/wound-large
+  rotate: false
+  xy: 1835, 677
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+curse-large
+  rotate: false
+  xy: 1928, 1470
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+dim-corners
+  rotate: false
+  xy: 2018, 820
+  size: 29, 29
+  split: 13, 13, 13, 13
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+element-bg
+  rotate: false
+  xy: 1681, 1069
+  size: 100, 100
+  orig: 106, 106
+  offset: 3, 3
+  index: -1
+element-glow
+  rotate: false
+  xy: 1614, 1269
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+element-glow-half
+  rotate: false
+  xy: 1575, 910
+  size: 111, 63
+  orig: 111, 63
+  offset: 0, 0
+  index: -1
+element-ring
+  rotate: false
+  xy: 1575, 1065
+  size: 104, 104
+  orig: 110, 110
+  offset: 3, 3
+  index: -1
+fonts/en/fancyExtraLargeOutlineNumbers
+  rotate: false
+  xy: 1, 9
+  size: 293, 46
+  orig: 509, 509
+  offset: 1, 462
+  index: -1
+fonts/en/fancyLargeOutline
+  rotate: false
+  xy: 1106, 1781
+  size: 503, 266
+  orig: 509, 509
+  offset: 0, 242
+  index: -1
+fonts/en/plainExtraLargeNumbers
+  rotate: false
+  xy: 1555, 1548
+  size: 262, 39
+  orig: 509, 509
+  offset: 1, 469
+  index: -1
+fonts/en/plainExtraLargeOutlineNumbers
+  rotate: false
+  xy: 1611, 1772
+  size: 279, 41
+  orig: 509, 509
+  offset: 1, 467
+  index: -1
+fonts/en/plainLargeNumbers
+  rotate: false
+  xy: 1555, 1487
+  size: 239, 25
+  orig: 509, 509
+  offset: 1, 483
+  index: -1
+fonts/en/plainLargeOutline
+  rotate: false
+  xy: 948, 169
+  size: 503, 118
+  orig: 509, 509
+  offset: 0, 390
+  index: -1
+fonts/en/plainMedium
+  rotate: false
+  xy: 1318, 368
+  size: 502, 70
+  orig: 509, 509
+  offset: 0, 438
+  index: -1
+fonts/en/plainMediumOutline
+  rotate: false
+  xy: 948, 72
+  size: 503, 95
+  orig: 509, 509
+  offset: 0, 413
+  index: -1
+fonts/en/plainSmall
+  rotate: false
+  xy: 1009, 2
+  size: 502, 68
+  orig: 509, 509
+  offset: 0, 440
+  index: -1
+fonts/en/plainSmallOutline
+  rotate: false
+  xy: 879, 289
+  size: 502, 77
+  orig: 509, 509
+  offset: 0, 431
+  index: -1
+fonts/ru/fancyExtraLargeOutlineNumbers
+  rotate: false
+  xy: 1611, 1815
+  size: 319, 39
+  orig: 509, 509
+  offset: 1, 469
+  index: -1
+fonts/ru/fancyLargeOutline
+  rotate: false
+  xy: 1, 57
+  size: 502, 221
+  orig: 509, 509
+  offset: 0, 287
+  index: -1
+fonts/ru/plainExtraLargeNumbers
+  rotate: false
+  xy: 1322, 546
+  size: 244, 32
+  orig: 509, 509
+  offset: 1, 476
+  index: -1
+fonts/ru/plainExtraLargeOutlineNumbers
+  rotate: false
+  xy: 1555, 1514
+  size: 259, 32
+  orig: 509, 509
+  offset: 2, 476
+  index: -1
+fonts/ru/plainLargeNumbers
+  rotate: false
+  xy: 1453, 166
+  size: 219, 21
+  orig: 509, 509
+  offset: 1, 487
+  index: -1
+fonts/ru/plainLargeOutline
+  rotate: false
+  xy: 1318, 440
+  size: 503, 104
+  orig: 509, 509
+  offset: 0, 404
+  index: -1
+fonts/ru/plainMedium
+  rotate: false
+  xy: 1453, 189
+  size: 503, 56
+  orig: 509, 509
+  offset: 0, 452
+  index: -1
+fonts/ru/plainMediumOutline
+  rotate: false
+  xy: 1383, 306
+  size: 503, 60
+  orig: 509, 509
+  offset: 0, 448
+  index: -1
+fonts/ru/plainSmall
+  rotate: false
+  xy: 1453, 247
+  size: 503, 57
+  orig: 509, 509
+  offset: 0, 451
+  index: -1
+fonts/ru/plainSmallOutline
+  rotate: false
+  xy: 505, 1
+  size: 502, 66
+  orig: 509, 509
+  offset: 0, 442
+  index: -1
+init
+  rotate: false
+  xy: 1728, 1174
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+leaves
+  rotate: false
+  xy: 1775, 889
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+menu/arrow
+  rotate: false
+  xy: 1882, 808
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+menu/bg
+  rotate: false
+  xy: 879, 1155
+  size: 251, 315
+  orig: 251, 315
+  offset: 0, 0
+  index: -1
+menu/bottom
+  rotate: false
+  xy: 296, 34
+  size: 196, 21
+  orig: 196, 21
+  offset: 0, 0
+  index: -1
+menu/corner
+  rotate: false
+  xy: 1776, 1589
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+menu/left
+  rotate: false
+  xy: 1571, 1230
+  size: 21, 255
+  orig: 21, 255
+  offset: 0, 0
+  index: -1
+menu/right
+  rotate: false
+  xy: 1594, 1230
+  size: 18, 255
+  orig: 18, 255
+  offset: 0, 0
+  index: -1
+menu/top
+  rotate: false
+  xy: 1674, 170
+  size: 196, 17
+  orig: 196, 17
+  offset: 0, 0
+  index: -1
+menu/vignette
+  rotate: false
+  xy: 879, 842
+  size: 247, 311
+  orig: 247, 311
+  offset: 0, 0
+  index: -1
+monsterAbility-back-empty
+  rotate: false
+  xy: 1611, 1856
+  size: 424, 191
+  orig: 441, 209
+  offset: 8, 11
+  index: -1
+monsterAbility-selected
+  rotate: false
+  xy: 1728, 1188
+  size: 83, 89
+  split: 40, 40, 43, 43
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+network-connected
+  rotate: false
+  xy: 1816, 1487
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+network-disconnected
+  rotate: false
+  xy: 329, 1
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+network-server
+  rotate: false
+  xy: 1847, 1361
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+player-glow
+  rotate: false
+  xy: 1705, 74
+  size: 93, 94
+  split: 45, 45, 46, 45
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+player-hp
+  rotate: false
+  xy: 1, 1
+  size: 117, 6
+  orig: 117, 6
+  offset: 0, 0
+  index: -1
+psd/add
+  rotate: false
+  xy: 1819, 1578
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+psd/bar-bottom
+  rotate: false
+  xy: 1, 1472
+  size: 1113, 131
+  orig: 1113, 131
+  offset: 0, 0
+  index: -1
+psd/bar-top
+  rotate: false
+  xy: 1, 1605
+  size: 1113, 132
+  orig: 1113, 132
+  offset: 0, 0
+  index: -1
+psd/coins
+  rotate: false
+  xy: 1823, 562
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+psd/conditions
+  rotate: false
+  xy: 1513, 1
+  size: 120, 69
+  split: 0, 55, 33, 34
+  orig: 120, 69
+  offset: 0, 0
+  index: -1
+psd/element-air
+  rotate: false
+  xy: 1571, 768
+  size: 84, 55
+  orig: 100, 100
+  offset: 9, 22
+  index: -1
+psd/element-dark
+  rotate: false
+  xy: 1784, 960
+  size: 77, 61
+  orig: 100, 100
+  offset: 12, 19
+  index: -1
+psd/element-earth
+  rotate: false
+  xy: 1845, 889
+  size: 62, 69
+  orig: 100, 100
+  offset: 19, 12
+  index: -1
+psd/element-fire
+  rotate: false
+  xy: 1819, 806
+  size: 61, 81
+  orig: 100, 100
+  offset: 20, 9
+  index: -1
+psd/element-ice
+  rotate: false
+  xy: 1783, 1103
+  size: 75, 83
+  orig: 100, 100
+  offset: 13, 8
+  index: -1
+psd/element-light
+  rotate: false
+  xy: 1688, 887
+  size: 85, 85
+  orig: 100, 100
+  offset: 8, 7
+  index: -1
+psd/flying-stat
+  rotate: false
+  xy: 1571, 1188
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+psd/level
+  rotate: false
+  xy: 1895, 519
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+psd/level-white
+  rotate: false
+  xy: 1893, 460
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+psd/loot-large
+  rotate: false
+  xy: 1886, 1186
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+psd/menu
+  rotate: false
+  xy: 1892, 1773
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+psd/monster-boss
+  rotate: false
+  xy: 1614, 1171
+  size: 112, 96
+  orig: 112, 96
+  offset: 0, 0
+  index: -1
+psd/monster-elite
+  rotate: false
+  xy: 1453, 72
+  size: 112, 92
+  orig: 112, 92
+  offset: 0, 0
+  index: -1
+psd/monster-hp
+  rotate: false
+  xy: 120, 1
+  size: 98, 6
+  orig: 98, 6
+  offset: 0, 0
+  index: -1
+psd/monster-normal
+  rotate: false
+  xy: 1575, 975
+  size: 112, 88
+  orig: 112, 88
+  offset: 0, 0
+  index: -1
+psd/monster-summon
+  rotate: false
+  xy: 1575, 975
+  size: 112, 88
+  orig: 112, 88
+  offset: 0, 0
+  index: -1
+psd/monsterAbility-back
+  rotate: false
+  xy: 505, 69
+  size: 441, 209
+  orig: 441, 209
+  offset: 0, 0
+  index: -1
+psd/monsterAbility-front
+  rotate: false
+  xy: 1132, 974
+  size: 441, 209
+  orig: 441, 209
+  offset: 0, 0
+  index: -1
+psd/monsterStats-boss
+  rotate: false
+  xy: 1128, 763
+  size: 441, 209
+  orig: 441, 209
+  offset: 0, 0
+  index: -1
+psd/monsterStats-boss-overlay
+  rotate: false
+  xy: 879, 368
+  size: 437, 182
+  orig: 437, 182
+  offset: 0, 0
+  index: -1
+psd/monsterStats-elite-overlay
+  rotate: false
+  xy: 1322, 580
+  size: 219, 181
+  orig: 219, 181
+  offset: 0, 0
+  index: -1
+psd/monsterStats-normal
+  rotate: false
+  xy: 879, 552
+  size: 441, 209
+  orig: 441, 209
+  offset: 0, 0
+  index: -1
+psd/monsterStats-normal-overlay
+  rotate: false
+  xy: 1555, 1589
+  size: 219, 181
+  orig: 219, 181
+  offset: 0, 0
+  index: -1
+psd/skull
+  rotate: false
+  xy: 1874, 1549
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+psd/sub
+  rotate: false
+  xy: 1383, 292
+  size: 48, 12
+  orig: 48, 12
+  offset: 0, 0
+  index: -1
+psd/traps
+  rotate: false
+  xy: 1975, 937
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+psd/xp
+  rotate: false
+  xy: 1897, 358
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+psd/xp-large
+  rotate: false
+  xy: 1738, 669
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+radio
+  rotate: false
+  xy: 362, 1
+  size: 31, 31
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+radio-checked
+  rotate: false
+  xy: 395, 1
+  size: 31, 31
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+radio-checked-over
+  rotate: false
+  xy: 428, 1
+  size: 31, 31
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+ripple
+  rotate: false
+  xy: 1958, 1673
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+rounded
+  rotate: false
+  xy: 1823, 596
+  size: 29, 29
+  split: 13, 13, 13, 13
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+rounded-top
+  rotate: false
+  xy: 1909, 980
+  size: 31, 17
+  split: 15, 15, 16, 0
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+scroll-vert
+  rotate: false
+  xy: 1963, 15
+  size: 13, 80
+  split: 0, 13, 66, 11
+  orig: 13, 80
+  offset: 0, 0
+  index: -1
+selected
+  rotate: false
+  xy: 1543, 583
+  size: 88, 88
+  orig: 100, 100
+  offset: 6, 6
+  index: -1
+summon/beast
+  rotate: false
+  xy: 1628, 673
+  size: 28, 36
+  orig: 36, 36
+  offset: 4, 0
+  index: -1
+summon/blue
+  rotate: false
+  xy: 1864, 1066
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+conditions/summon
+  rotate: false
+  xy: 1864, 1066
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+summon/green
+  rotate: false
+  xy: 1864, 1028
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+summon/orange
+  rotate: false
+  xy: 1942, 894
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+summon/pink
+  rotate: false
+  xy: 1980, 899
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+summon/purple
+  rotate: false
+  xy: 1980, 861
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+summon/red
+  rotate: false
+  xy: 1942, 856
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+summon/white
+  rotate: false
+  xy: 1980, 823
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+summon/x
+  rotate: false
+  xy: 1942, 932
+  size: 31, 32
+  orig: 36, 36
+  offset: 3, 2
+  index: -1
+summon/yellow
+  rotate: false
+  xy: 1882, 686
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+textfield
+  rotate: false
+  xy: 1860, 1104
+  size: 39, 36
+  split: 19, 19, 0, 36
+  pad: 12, 12, -1, -1
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+textfield-cursor
+  rotate: false
+  xy: 1891, 563
+  size: 2, 13
+  split: 0, 1, 6, 6
+  orig: 2, 13
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1975, 932
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+
+skin2.png
+size: 1024,1024
+format: RGB888
+filter: Linear,Linear
+repeat: none
+bg/bg
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+skin3.png
+size: 1924,1550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+esoteric/esoteric_013
+  rotate: false
+  xy: 1821, 48
+  size: 90, 59
+  orig: 600, 425
+  offset: 265, 209
+  index: -1
+esoteric/esoteric_014
+  rotate: false
+  xy: 1828, 1252
+  size: 90, 62
+  orig: 600, 425
+  offset: 265, 209
+  index: -1
+esoteric/esoteric_015
+  rotate: false
+  xy: 1777, 998
+  size: 143, 72
+  orig: 600, 425
+  offset: 260, 208
+  index: -1
+esoteric/esoteric_016
+  rotate: false
+  xy: 1781, 1071
+  size: 143, 83
+  orig: 600, 425
+  offset: 258, 206
+  index: -1
+esoteric/esoteric_017
+  rotate: false
+  xy: 1781, 1155
+  size: 143, 86
+  orig: 600, 425
+  offset: 256, 205
+  index: -1
+esoteric/esoteric_018
+  rotate: true
+  xy: 1506, 881
+  size: 156, 89
+  orig: 600, 425
+  offset: 243, 204
+  index: -1
+esoteric/esoteric_019
+  rotate: false
+  xy: 1722, 794
+  size: 153, 92
+  orig: 600, 425
+  offset: 251, 202
+  index: -1
+esoteric/esoteric_020
+  rotate: false
+  xy: 1606, 1008
+  size: 170, 108
+  orig: 600, 425
+  offset: 235, 200
+  index: -1
+esoteric/esoteric_021
+  rotate: true
+  xy: 1003, 161
+  size: 198, 117
+  orig: 600, 425
+  offset: 218, 199
+  index: -1
+esoteric/esoteric_022
+  rotate: true
+  xy: 875, 113
+  size: 230, 127
+  orig: 600, 425
+  offset: 201, 198
+  index: -1
+esoteric/esoteric_023
+  rotate: false
+  xy: 1249, 550
+  size: 269, 139
+  orig: 600, 425
+  offset: 180, 197
+  index: -1
+esoteric/esoteric_024
+  rotate: true
+  xy: 1105, 623
+  size: 287, 143
+  orig: 600, 425
+  offset: 168, 194
+  index: -1
+esoteric/esoteric_025
+  rotate: true
+  xy: 345, 947
+  size: 339, 154
+  orig: 600, 425
+  offset: 138, 183
+  index: -1
+esoteric/esoteric_026
+  rotate: true
+  xy: 341, 252
+  size: 356, 157
+  orig: 600, 425
+  offset: 126, 180
+  index: -1
+esoteric/esoteric_027
+  rotate: false
+  xy: 839, 1069
+  size: 351, 157
+  orig: 600, 425
+  offset: 126, 180
+  index: -1
+esoteric/esoteric_028
+  rotate: false
+  xy: 820, 911
+  size: 348, 157
+  orig: 600, 425
+  offset: 128, 180
+  index: -1
+esoteric/esoteric_029
+  rotate: true
+  xy: 343, 609
+  size: 337, 152
+  orig: 600, 425
+  offset: 132, 185
+  index: -1
+esoteric/esoteric_030
+  rotate: true
+  xy: 577, 0
+  size: 317, 149
+  orig: 600, 425
+  offset: 139, 188
+  index: -1
+esoteric/esoteric_031
+  rotate: true
+  xy: 727, 15
+  size: 302, 147
+  orig: 600, 425
+  offset: 143, 190
+  index: -1
+esoteric/esoteric_032
+  rotate: true
+  xy: 781, 344
+  size: 283, 147
+  orig: 600, 425
+  offset: 152, 190
+  index: -1
+esoteric/esoteric_033
+  rotate: true
+  xy: 929, 360
+  size: 272, 147
+  orig: 600, 425
+  offset: 154, 189
+  index: -1
+esoteric/esoteric_034
+  rotate: true
+  xy: 1077, 375
+  size: 247, 142
+  orig: 600, 425
+  offset: 166, 189
+  index: -1
+esoteric/esoteric_035
+  rotate: true
+  xy: 1476, 1038
+  size: 197, 129
+  orig: 600, 425
+  offset: 188, 188
+  index: -1
+esoteric/esoteric_036
+  rotate: false
+  xy: 1606, 1117
+  size: 174, 124
+  orig: 600, 425
+  offset: 198, 187
+  index: -1
+esoteric/esoteric_037
+  rotate: false
+  xy: 1220, 125
+  size: 165, 118
+  orig: 600, 425
+  offset: 202, 187
+  index: -1
+esoteric/esoteric_038
+  rotate: false
+  xy: 1197, 11
+  size: 165, 113
+  orig: 600, 425
+  offset: 201, 186
+  index: -1
+esoteric/esoteric_039
+  rotate: true
+  xy: 1085, 1
+  size: 159, 111
+  orig: 600, 425
+  offset: 204, 186
+  index: -1
+esoteric/esoteric_040
+  rotate: false
+  xy: 1754, 887
+  size: 151, 110
+  orig: 600, 425
+  offset: 205, 185
+  index: -1
+esoteric/esoteric_041
+  rotate: false
+  xy: 1596, 897
+  size: 157, 110
+  orig: 600, 425
+  offset: 199, 184
+  index: -1
+esoteric/esoteric_042
+  rotate: true
+  xy: 1611, 742
+  size: 154, 110
+  orig: 600, 425
+  offset: 202, 183
+  index: -1
+esoteric/esoteric_043
+  rotate: true
+  xy: 1506, 724
+  size: 156, 104
+  orig: 600, 425
+  offset: 200, 183
+  index: -1
+esoteric/esoteric_044
+  rotate: true
+  xy: 1828, 1429
+  size: 121, 96
+  orig: 600, 425
+  offset: 235, 182
+  index: -1
+esoteric/esoteric_045
+  rotate: true
+  xy: 1615, 204
+  size: 112, 91
+  orig: 600, 425
+  offset: 244, 181
+  index: -1
+esoteric/esoteric_046
+  rotate: true
+  xy: 1615, 91
+  size: 112, 92
+  orig: 600, 425
+  offset: 244, 180
+  index: -1
+esoteric/esoteric_047
+  rotate: false
+  xy: 1708, 39
+  size: 112, 92
+  orig: 600, 425
+  offset: 244, 180
+  index: -1
+esoteric/esoteric_048
+  rotate: true
+  xy: 991, 0
+  size: 112, 93
+  orig: 600, 425
+  offset: 244, 179
+  index: -1
+esoteric/esoteric_049
+  rotate: true
+  xy: 1363, 12
+  size: 112, 93
+  orig: 600, 425
+  offset: 244, 179
+  index: -1
+esoteric/esoteric_050
+  rotate: false
+  xy: 1708, 132
+  size: 113, 94
+  orig: 600, 425
+  offset: 244, 178
+  index: -1
+esoteric/esoteric_051
+  rotate: true
+  xy: 1822, 108
+  size: 113, 94
+  orig: 600, 425
+  offset: 244, 178
+  index: -1
+esoteric/esoteric_052
+  rotate: true
+  xy: 1822, 222
+  size: 113, 95
+  orig: 600, 425
+  offset: 244, 178
+  index: -1
+esoteric/esoteric_053
+  rotate: true
+  xy: 1828, 1315
+  size: 113, 96
+  orig: 600, 425
+  offset: 244, 177
+  index: -1
+esoteric/esoteric_054
+  rotate: true
+  xy: 1121, 261
+  size: 113, 98
+  orig: 600, 425
+  offset: 244, 175
+  index: -1
+esoteric/esoteric_055
+  rotate: true
+  xy: 1819, 451
+  size: 114, 102
+  orig: 600, 425
+  offset: 243, 171
+  index: -1
+esoteric/esoteric_056
+  rotate: true
+  xy: 1819, 336
+  size: 114, 104
+  orig: 600, 425
+  offset: 243, 169
+  index: -1
+esoteric/esoteric_057
+  rotate: false
+  xy: 1500, 100
+  size: 114, 106
+  orig: 600, 425
+  offset: 243, 167
+  index: -1
+esoteric/esoteric_058
+  rotate: false
+  xy: 1707, 227
+  size: 114, 108
+  orig: 600, 425
+  offset: 243, 165
+  index: -1
+esoteric/esoteric_059
+  rotate: false
+  xy: 1500, 207
+  size: 114, 109
+  orig: 600, 425
+  offset: 243, 164
+  index: -1
+esoteric/esoteric_060
+  rotate: false
+  xy: 1751, 566
+  size: 115, 111
+  orig: 600, 425
+  offset: 243, 162
+  index: -1
+esoteric/esoteric_061
+  rotate: false
+  xy: 875, 0
+  size: 115, 112
+  orig: 600, 425
+  offset: 243, 161
+  index: -1
+esoteric/esoteric_062
+  rotate: false
+  xy: 1703, 336
+  size: 115, 113
+  orig: 600, 425
+  offset: 243, 160
+  index: -1
+esoteric/esoteric_063
+  rotate: true
+  xy: 1386, 128
+  size: 115, 113
+  orig: 600, 425
+  offset: 243, 160
+  index: -1
+esoteric/esoteric_064
+  rotate: false
+  xy: 1751, 678
+  size: 115, 115
+  orig: 600, 425
+  offset: 243, 159
+  index: -1
+esoteric/esoteric_065
+  rotate: false
+  xy: 1703, 450
+  size: 115, 115
+  orig: 600, 425
+  offset: 243, 159
+  index: -1
+esoteric/esoteric_066
+  rotate: true
+  xy: 1519, 607
+  size: 116, 115
+  orig: 600, 425
+  offset: 242, 159
+  index: -1
+esoteric/esoteric_067
+  rotate: true
+  xy: 1635, 625
+  size: 116, 115
+  orig: 600, 425
+  offset: 242, 159
+  index: -1
+esoteric/esoteric_068
+  rotate: false
+  xy: 1220, 309
+  size: 265, 240
+  orig: 600, 425
+  offset: 179, 118
+  index: -1
+esoteric/esoteric_069
+  rotate: true
+  xy: 499, 318
+  size: 309, 281
+  orig: 600, 425
+  offset: 155, 99
+  index: -1
+esoteric/esoteric_070
+  rotate: false
+  xy: 0, 957
+  size: 344, 329
+  orig: 600, 425
+  offset: 136, 65
+  index: -1
+esoteric/esoteric_071
+  rotate: false
+  xy: 0, 629
+  size: 342, 327
+  orig: 600, 425
+  offset: 135, 65
+  index: -1
+esoteric/esoteric_072
+  rotate: false
+  xy: 0, 301
+  size: 340, 327
+  orig: 600, 425
+  offset: 138, 65
+  index: -1
+esoteric/esoteric_073
+  rotate: false
+  xy: 501, 1224
+  size: 337, 326
+  orig: 600, 425
+  offset: 140, 66
+  index: -1
+esoteric/esoteric_074
+  rotate: false
+  xy: 839, 1227
+  size: 334, 323
+  orig: 600, 425
+  offset: 141, 67
+  index: -1
+esoteric/esoteric_075
+  rotate: false
+  xy: 1174, 1236
+  size: 326, 314
+  orig: 600, 425
+  offset: 144, 73
+  index: -1
+esoteric/esoteric_076
+  rotate: false
+  xy: 1501, 1242
+  size: 326, 308
+  orig: 600, 425
+  offset: 144, 79
+  index: -1
+esoteric/esoteric_077
+  rotate: false
+  xy: 500, 919
+  size: 319, 304
+  orig: 600, 425
+  offset: 148, 81
+  index: -1
+esoteric/esoteric_078
+  rotate: false
+  xy: 0, 4
+  size: 315, 296
+  orig: 600, 425
+  offset: 149, 85
+  index: -1
+esoteric/esoteric_079
+  rotate: false
+  xy: 496, 628
+  size: 310, 290
+  orig: 600, 425
+  offset: 151, 89
+  index: -1
+esoteric/esoteric_080
+  rotate: false
+  xy: 807, 633
+  size: 297, 277
+  orig: 600, 425
+  offset: 158, 96
+  index: -1
+esoteric/esoteric_081
+  rotate: false
+  xy: 1191, 965
+  size: 284, 270
+  orig: 600, 425
+  offset: 164, 98
+  index: -1
+esoteric/esoteric_082
+  rotate: true
+  xy: 1249, 690
+  size: 274, 256
+  orig: 600, 425
+  offset: 169, 106
+  index: -1
+esoteric/esoteric_083
+  rotate: false
+  xy: 316, 10
+  size: 260, 241
+  orig: 600, 425
+  offset: 175, 111
+  index: -1
+esoteric/esoteric_084
+  rotate: true
+  xy: 1486, 317
+  size: 232, 216
+  orig: 600, 425
+  offset: 188, 125
+  index: -1
+esoteric/flare
+  rotate: false
+  xy: 0, 1287
+  size: 500, 263
+  orig: 500, 278
+  offset: 0, 5
+  index: -1
+esoteric/flash
+  rotate: false
+  xy: 1457, 26
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+esoteric/logo
+  rotate: true
+  xy: 1121, 161
+  size: 99, 98
+  orig: 101, 100
+  offset: 0, 2
+  index: -1
+esoteric/text
+  rotate: false
+  xy: 1220, 244
+  size: 202, 64
+  orig: 202, 64
+  offset: 0, 0
+  index: -1
+
+skin4.png
+size: 2034,916
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fonts/ja/fancyExtraLargeOutlineNumbers
+  rotate: false
+  xy: 1018, 73
+  size: 335, 42
+  orig: 1021, 1021
+  offset: 2, 978
+  index: -1
+fonts/ja/fancyLargeOutline
+  rotate: false
+  xy: 1, 312
+  size: 1015, 603
+  orig: 1021, 1021
+  offset: 0, 417
+  index: -1
+fonts/ja/plainExtraLargeNumbers
+  rotate: false
+  xy: 1355, 74
+  size: 253, 41
+  orig: 1021, 1021
+  offset: 1, 979
+  index: -1
+fonts/ja/plainExtraLargeOutlineNumbers
+  rotate: false
+  xy: 1018, 30
+  size: 269, 41
+  orig: 1021, 1021
+  offset: 1, 979
+  index: -1
+fonts/ja/plainLargeNumbers
+  rotate: false
+  xy: 1610, 85
+  size: 259, 30
+  orig: 1021, 1021
+  offset: 1, 990
+  index: -1
+fonts/ja/plainLargeOutline
+  rotate: false
+  xy: 1018, 441
+  size: 1015, 474
+  orig: 1021, 1021
+  offset: 0, 546
+  index: -1
+fonts/ja/plainMedium
+  rotate: false
+  xy: 1, 1
+  size: 1015, 309
+  orig: 1021, 1021
+  offset: 0, 711
+  index: -1
+fonts/ja/plainSmall
+  rotate: false
+  xy: 1, 1
+  size: 1015, 309
+  orig: 1021, 1021
+  offset: 0, 711
+  index: -1
+fonts/ja/plainMediumOutline
+  rotate: false
+  xy: 1018, 117
+  size: 1015, 322
+  orig: 1021, 1021
+  offset: 0, 698
+  index: -1
+fonts/ja/plainSmallOutline
+  rotate: false
+  xy: 1018, 117
+  size: 1015, 322
+  orig: 1021, 1021
+  offset: 0, 698
+  index: -1
+
+skin5.png
+size: 2034,573
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fonts/ko/fancyExtraLargeOutlineNumbers
+  rotate: false
+  xy: 1018, 22
+  size: 311, 37
+  orig: 1021, 1021
+  offset: 2, 983
+  index: -1
+fonts/ko/fancyLargeOutline
+  rotate: false
+  xy: 1, 171
+  size: 1015, 401
+  orig: 1021, 1021
+  offset: 0, 619
+  index: -1
+fonts/ko/plainExtraLargeNumbers
+  rotate: false
+  xy: 1605, 25
+  size: 256, 34
+  orig: 1021, 1021
+  offset: 1, 986
+  index: -1
+fonts/ko/plainExtraLargeOutlineNumbers
+  rotate: false
+  xy: 1331, 24
+  size: 272, 35
+  orig: 1021, 1021
+  offset: 1, 985
+  index: -1
+fonts/ko/plainLargeNumbers
+  rotate: false
+  xy: 1331, 1
+  size: 222, 21
+  orig: 1021, 1021
+  offset: 1, 999
+  index: -1
+fonts/ko/plainLargeOutline
+  rotate: false
+  xy: 1, 7
+  size: 1015, 162
+  orig: 1021, 1021
+  offset: 0, 858
+  index: -1
+fonts/ko/plainMedium
+  rotate: false
+  xy: 1018, 61
+  size: 1015, 113
+  orig: 1021, 1021
+  offset: 0, 907
+  index: -1
+fonts/ko/plainMediumOutline
+  rotate: false
+  xy: 1018, 176
+  size: 1014, 125
+  orig: 1021, 1021
+  offset: 0, 895
+  index: -1
+fonts/ko/plainSmall
+  rotate: false
+  xy: 1018, 303
+  size: 1015, 129
+  orig: 1021, 1021
+  offset: 0, 891
+  index: -1
+fonts/ko/plainSmallOutline
+  rotate: false
+  xy: 1018, 434
+  size: 1015, 138
+  orig: 1021, 1021
+  offset: 0, 882
+  index: -1
+
+skin6.png
+size: 1881,1688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+monsters/Aesther Ashblade
+  rotate: false
+  xy: 1, 1237
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Aesther Scout
+  rotate: false
+  xy: 242, 1478
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Ancient Artillery
+  rotate: false
+  xy: 1, 1026
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Bandit Archer
+  rotate: false
+  xy: 451, 1478
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Bandit Commander
+  rotate: false
+  xy: 1, 815
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Bandit Guard
+  rotate: false
+  xy: 660, 1478
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Bear-Drake Abomination
+  rotate: false
+  xy: 1, 604
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Cave Bear
+  rotate: false
+  xy: 1, 604
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Black Imp
+  rotate: false
+  xy: 869, 1478
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Black Sludge
+  rotate: false
+  xy: 1, 393
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Blood Horror
+  rotate: false
+  xy: 1078, 1478
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Blood Imp
+  rotate: false
+  xy: 1, 182
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Blood Monstrosity
+  rotate: false
+  xy: 1287, 1478
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Blood Tumor
+  rotate: false
+  xy: 1496, 1478
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Captain of the Guard
+  rotate: false
+  xy: 210, 1237
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Chaos Demon
+  rotate: false
+  xy: 210, 1026
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/City Archer
+  rotate: false
+  xy: 210, 815
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/City Guard
+  rotate: false
+  xy: 210, 604
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Cultist
+  rotate: false
+  xy: 210, 393
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Dark Rider
+  rotate: false
+  xy: 210, 182
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Deep Terror
+  rotate: false
+  xy: 419, 1267
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Earth Demon
+  rotate: false
+  xy: 419, 1056
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Elder Drake
+  rotate: false
+  xy: 628, 1267
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/First of the Order
+  rotate: false
+  xy: 419, 845
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Flame Demon
+  rotate: false
+  xy: 628, 1056
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Forest Imp
+  rotate: false
+  xy: 837, 1267
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Frost Demon
+  rotate: false
+  xy: 419, 634
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Giant Viper
+  rotate: false
+  xy: 628, 845
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Harrower Infester
+  rotate: false
+  xy: 837, 1056
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Hound
+  rotate: false
+  xy: 1046, 1267
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Wolf-Viper Abomination
+  rotate: false
+  xy: 1046, 1267
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Human Commander
+  rotate: false
+  xy: 419, 423
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Inox Archer
+  rotate: false
+  xy: 628, 634
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Inox Bodyguard
+  rotate: false
+  xy: 837, 845
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Inox Guard
+  rotate: false
+  xy: 1046, 1056
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Inox Shaman
+  rotate: false
+  xy: 1255, 1267
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Jekserah
+  rotate: false
+  xy: 419, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Living Bones
+  rotate: false
+  xy: 419, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Living Corpse
+  rotate: false
+  xy: 628, 423
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Living Spirit
+  rotate: false
+  xy: 837, 634
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Lurker
+  rotate: false
+  xy: 1046, 845
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Manifestation of Corruption
+  rotate: false
+  xy: 1255, 1056
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Merciless Overseer
+  rotate: false
+  xy: 1464, 1267
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Night Demon
+  rotate: false
+  xy: 628, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Ooze
+  rotate: false
+  xy: 628, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Prime Demon
+  rotate: false
+  xy: 837, 423
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Rat Monstrosity
+  rotate: false
+  xy: 1046, 634
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Rending Drake
+  rotate: false
+  xy: 1255, 845
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Savvas Icestorm
+  rotate: false
+  xy: 1464, 1056
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Savvas Lavaflow
+  rotate: false
+  xy: 837, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Spitting Drake
+  rotate: false
+  xy: 837, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Stone Golem
+  rotate: false
+  xy: 1046, 423
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Sun Demon
+  rotate: false
+  xy: 1255, 634
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/The Betrayer
+  rotate: false
+  xy: 1464, 845
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/The Colorless
+  rotate: false
+  xy: 1046, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/The Gloom
+  rotate: false
+  xy: 1673, 848
+  size: 207, 206
+  orig: 207, 206
+  offset: 0, 0
+  index: -1
+monsters/The Sightless Eye
+  rotate: false
+  xy: 1046, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Valrath Commander
+  rotate: false
+  xy: 1255, 423
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Valrath Savage
+  rotate: false
+  xy: 1464, 634
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Valrath Tracker
+  rotate: false
+  xy: 1255, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Vermling Raider
+  rotate: false
+  xy: 1255, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Vermling Scout
+  rotate: false
+  xy: 1464, 423
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Vermling Shaman
+  rotate: false
+  xy: 1464, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Wind Demon
+  rotate: false
+  xy: 1464, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Winged Horror
+  rotate: false
+  xy: 1673, 1267
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Zealot
+  rotate: false
+  xy: 1673, 1056
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/monster-glow
+  rotate: false
+  xy: 1, 1448
+  size: 239, 239
+  orig: 239, 239
+  offset: 0, 0
+  index: -1
+
+skin7.png
+size: 2035,2015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+separate/class-bgs/BeastTyrant
+  rotate: false
+  xy: 1, 1861
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Berserker
+  rotate: false
+  xy: 1, 1706
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Bladeswarm
+  rotate: false
+  xy: 1, 1551
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Brute
+  rotate: false
+  xy: 1, 1396
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Cragheart
+  rotate: false
+  xy: 1, 1241
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Demolitionist
+  rotate: false
+  xy: 1, 1086
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Diviner
+  rotate: false
+  xy: 1, 931
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Doomstalker
+  rotate: false
+  xy: 1, 776
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Elementalist
+  rotate: true
+  xy: 1106, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Escort
+  rotate: false
+  xy: 1, 621
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Hatchet
+  rotate: true
+  xy: 1261, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Mindthief
+  rotate: false
+  xy: 1, 466
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Nightshroud
+  rotate: true
+  xy: 1416, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Objective
+  rotate: false
+  xy: 1, 311
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Plagueherald
+  rotate: true
+  xy: 1571, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Quartermaster
+  rotate: false
+  xy: 1, 156
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/RedGuard
+  rotate: true
+  xy: 1726, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Sawbones
+  rotate: false
+  xy: 1, 1
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Soothsinger
+  rotate: true
+  xy: 1881, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/logo
+  rotate: false
+  xy: 1106, 542
+  size: 440, 367
+  orig: 440, 367
+  offset: 0, 0
+  index: -1
+
+skin8.png
+size: 1105,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+separate/class-bgs/Summoner
+  rotate: false
+  xy: 1, 466
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Sunkeeper
+  rotate: false
+  xy: 1, 311
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Tinkerer
+  rotate: false
+  xy: 1, 156
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Voidwarden
+  rotate: false
+  xy: 1, 1
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+
+skin9.png
+size: 1382,1026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vignette/bg-left
+  rotate: false
+  xy: 1174, 1
+  size: 124, 1024
+  orig: 124, 1024
+  offset: 0, 0
+  index: -1
+vignette/bg-middle
+  rotate: false
+  xy: 1300, 1
+  size: 81, 1024
+  orig: 81, 1024
+  offset: 0, 0
+  index: -1
+vignette/bg-right
+  rotate: false
+  xy: 1027, 1
+  size: 145, 1024
+  orig: 145, 1024
+  offset: 0, 0
+  index: -1
+vignette/vignette
+  rotate: false
+  xy: 1, 1
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+skin-cs1.png
+size: 1881,1688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+monsters/Aesther Ashblade
+  rotate: false
+  xy: 1, 1237
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Toxic Imp
+  rotate: false
+  xy: 1, 182
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Water Spirit
+  rotate: false
+  xy: 210, 182
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Harrower Aegis
+  rotate: false
+  xy: 419, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Blood Ooze
+  rotate: false
+  xy: 419, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Ravenous Gharial
+  rotate: false
+  xy: 628, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Flaming Drake
+  rotate: false
+  xy: 628, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Goremyon Shatter-Mind
+  rotate: false
+  xy: 837, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Frozen Cadaver
+  rotate: false
+  xy: 837, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Inox Bloodguard
+  rotate: false
+  xy: 1046, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Gnashing Drake
+  rotate: false
+  xy: 1046, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Ruinmaw
+  rotate: false
+  xy: 1255, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Hail Demon
+  rotate: false
+  xy: 1255, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Terrorscale Drake
+  rotate: false
+  xy: 1464, 212
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+monsters/Harrower Icecrawlers
+  rotate: false
+  xy: 1464, 1
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+
+skin-cs2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abilities/aoe-star-with-side-black
+  rotate: false
+  xy: 1975, 1372
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+abilities/aoe-line-2
+  rotate: false
+  xy: 1975, 1019
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+abilities/aoe-line-5-with-black
+  rotate: false
+  xy: 1776, 1628
+  size: 91, 142
+  orig: 91, 142
+  offset: 0, 0
+  index: -1
+class-bgs/Mirefoot
+  rotate: false
+  xy: 1, 1894
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+class-bgs/Hollowpact
+  rotate: false
+  xy: 1, 1739
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+class-icons/Bombard
+  rotate: false
+  xy: 1800, 78
+  size: 80, 90
+  orig: 97, 97
+  offset: 9, 3
+  index: -1
+class-icons/Chieftain
+  rotate: false
+  xy: 1657, 719
+  size: 82, 83
+  orig: 97, 97
+  offset: 8, 7
+  index: -1
+class-icons/Hierophant
+  rotate: false
+  xy: 1664, 804
+  size: 84, 81
+  orig: 97, 97
+  offset: 7, 8
+  index: -1
+class-icons/Luminary
+  rotate: false
+  xy: 1769, 1399
+  size: 85, 86
+  orig: 97, 97
+  offset: 6, 5
+  index: -1
+class-icons/SpiritCaller
+  rotate: false
+  xy: 1636, 73
+  size: 67, 91
+  orig: 97, 97
+  offset: 15, 3
+  index: -1
+class-icons/Chainguard
+  rotate: false
+  xy: 1567, 72
+  size: 67, 92
+  orig: 97, 97
+  offset: 15, 2
+  index: -1
+class-icons/FireKnight
+  rotate: false
+  xy: 1803, 1
+  size: 66, 75
+  orig: 97, 97
+  offset: 18, 10
+  index: -1
+class-icons/Ruinmaw
+  rotate: false
+  xy: 1709, 4
+  size: 92, 68
+  orig: 97, 97
+  offset: 3, 14
+  index: -1
+class-icons/Mirefoot
+  rotate: false
+  xy: 1741, 718
+  size: 81, 84
+  orig: 97, 97
+  offset: 8, 6
+  index: -1
+class-icons/Starslinger
+  rotate: false
+  xy: 1882, 16
+  size: 79, 79
+  orig: 97, 97
+  offset: 9, 9
+  index: -1
+class-icons/Hollowpact
+  rotate: false
+  xy: 1689, 974
+  size: 93, 93
+  orig: 97, 97
+  offset: 2, 2
+  index: -1
+class-icons/Artificer
+  rotate: false
+  xy: 1958, 1764
+  size: 89, 90
+  orig: 97, 97
+  offset: 4, 3
+  index: -1
+class-icons/AmberAegis
+  rotate: false
+  xy: 1882, 97
+  size: 91, 90
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+class-icons/Brightspark
+  rotate: false
+  xy: 1869, 1682
+  size: 87, 88
+  orig: 97, 97
+  offset: 5, 4
+  index: -1
+abilities/chill
+  rotate: false
+  xy: 1859, 494
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/chill-medium
+  rotate: false
+  xy: 2019, 923
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/chill-small
+  rotate: false
+  xy: 1851, 368
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/infect
+  rotate: false
+  xy: 1859, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/infect-medium
+  rotate: false
+  xy: 1683, 560
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/infect-small
+  rotate: false
+  xy: 1874, 368
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/ward
+  rotate: false
+  xy: 1895, 544
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/ward-medium
+  rotate: false
+  xy: 1931, 362
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/ward-small
+  rotate: false
+  xy: 1953, 309
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/bane
+  rotate: false
+  xy: 1929, 554
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/bane-medium
+  rotate: false
+  xy: 1888, 328
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/bane-small
+  rotate: false
+  xy: 1976, 309
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/poisonx
+  rotate: false
+  xy: 1893, 485
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/poisonx-medium
+  rotate: false
+  xy: 1948, 332
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/poisonx-small
+  rotate: false
+  xy: 1909, 934
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/wound2
+  rotate: false
+  xy: 1924, 392
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/wound2-medium
+  rotate: false
+  xy: 1975, 129
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/wound2-small
+  rotate: false
+  xy: 1963, 542
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+abilities/rupture
+  rotate: false
+  xy: 1882, 426
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abilities/rupture-medium
+  rotate: false
+  xy: 1958, 219
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+abilities/rupture-small
+  rotate: false
+  xy: 1988, 240
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+conditions/chill
+  rotate: false
+  xy: 1935, 660
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/chill-large
+  rotate: false
+  xy: 1928, 1423
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/infect
+  rotate: false
+  xy: 1679, 590
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/infect-large
+  rotate: false
+  xy: 1928, 1282
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/ward
+  rotate: false
+  xy: 1715, 589
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/ward-large
+  rotate: false
+  xy: 1928, 1235
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/bane
+  rotate: false
+  xy: 1787, 589
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/bane-large
+  rotate: false
+  xy: 1928, 1188
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/poisonx
+  rotate: false
+  xy: 1713, 553
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/poisonx-large
+  rotate: false
+  xy: 1928, 1141
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/wound2
+  rotate: false
+  xy: 1823, 454
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/wound2-large
+  rotate: false
+  xy: 1835, 677
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+conditions/rupture
+  rotate: false
+  xy: 1749, 553
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+conditions/rupture-large
+  rotate: false
+  xy: 1928, 1094
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+
+skin-cs3.png
+size: 1105,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+separate/class-bgs/Artificer
+  rotate: false
+  xy: 1, 466
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/AmberAegis
+  rotate: false
+  xy: 1, 311
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Brightspark
+  rotate: false
+  xy: 1, 156
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+
+skin-cs4.png
+size: 2035,2015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+separate/class-bgs/Bombard
+  rotate: false
+  xy: 1, 1706
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Chieftain
+  rotate: false
+  xy: 1, 776
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Hierophant
+  rotate: true
+  xy: 1106, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Luminary
+  rotate: true
+  xy: 1416, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/SpiritCaller
+  rotate: true
+  xy: 1571, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Chainguard
+  rotate: false
+  xy: 1, 156
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/FireKnight
+  rotate: true
+  xy: 1726, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Ruinmaw
+  rotate: false
+  xy: 1, 1
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Starslinger
+  rotate: true
+  xy: 1881, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+
+skin-fh1.png
+size: 2035,2015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+separate/class-bgs/Drifter
+  rotate: true
+  xy: 1416, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Blinkblade
+  rotate: true
+  xy: 1571, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/BannerSpear
+  rotate: false
+  xy: 1, 1
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Deathwalker
+  rotate: false
+  xy: 1, 156
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Boneshaper
+  rotate: false
+  xy: 1, 776
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Geminate
+  rotate: false
+  xy: 1, 1086
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Prism
+  rotate: false
+  xy: 1, 1861
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Anemone
+  rotate: false
+  xy: 1, 311
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Shackles
+  rotate: false
+  xy: 1, 1706
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Trap
+  rotate: false
+  xy: 1, 621
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Fist
+  rotate: true
+  xy: 1261, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Star-moon
+  rotate: false
+  xy: 1, 466
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Meteor
+  rotate: false
+  xy: 1, 1551
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Drill
+  rotate: false
+  xy: 1, 1396
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Seaweed
+  rotate: false
+  xy: 1, 1241
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Fragments
+  rotate: true
+  xy: 1106, 911
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+separate/class-bgs/Snowflake
+  rotate: false
+  xy: 1, 931
+  size: 1103, 153
+  orig: 1103, 153
+  offset: 0, 0
+  index: -1
+
+skin-fh2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+class-icons/Drifter
+  rotate: false
+  xy: 1769, 1399
+  size: 85, 86
+  orig: 97, 97
+  offset: 6, 5
+  index: -1
+class-icons/Blinkblade
+  rotate: false
+  xy: 1636, 73
+  size: 67, 91
+  orig: 97, 97
+  offset: 15, 3
+  index: -1
+class-icons/BannerSpear
+  rotate: false
+  xy: 1709, 4
+  size: 92, 68
+  orig: 97, 97
+  offset: 3, 14
+  index: -1
+class-icons/Deathwalker
+  rotate: false
+  xy: 1567, 72
+  size: 67, 92
+  orig: 97, 97
+  offset: 15, 2
+  index: -1
+class-icons/Boneshaper
+  rotate: false
+  xy: 1657, 719
+  size: 82, 83
+  orig: 97, 97
+  offset: 8, 7
+  index: -1
+class-icons/Geminate
+  rotate: false
+  xy: 1891, 732
+  size: 62, 74
+  orig: 97, 97
+  offset: 18, 12
+  index: -1
+class-icons/Prism
+  rotate: false
+  xy: 1571, 825
+  size: 91, 83
+  orig: 97, 97
+  offset: 3, 7
+  index: -1
+class-icons/Meteor
+  rotate: false
+  xy: 1824, 724
+  size: 65, 80
+  orig: 97, 97
+  offset: 16, 8
+  index: -1
+class-icons/Drill
+  rotate: false
+  xy: 1869, 1600
+  size: 86, 80
+  orig: 97, 97
+  offset: 6, 8
+  index: -1
+class-icons/Seaweed
+  rotate: false
+  xy: 1543, 673
+  size: 83, 88
+  orig: 97, 97
+  offset: 7, 4
+  index: -1
+class-icons/Fragments
+  rotate: false
+  xy: 1664, 804
+  size: 84, 81
+  orig: 97, 97
+  offset: 7, 8
+  index: -1
+class-icons/Snowflake
+  rotate: false
+  xy: 1769, 1345
+  size: 76, 52
+  orig: 97, 97
+  offset: 11, 23
+  index: -1
+class-icons/Shackles
+  rotate: false
+  xy: 1800, 78
+  size: 80, 90
+  orig: 97, 97
+  offset: 9, 3
+  index: -1
+class-icons/Anemone
+  rotate: false
+  xy: 1975, 1514
+  size: 72, 72
+  orig: 97, 97
+  offset: 14, 13
+  index: -1
+class-icons/Trap
+  rotate: false
+  xy: 1761, 1280
+  size: 57, 63
+  orig: 97, 97
+  offset: 20, 16
+  index: -1
+class-icons/Fist
+  rotate: false
+  xy: 1750, 804
+  size: 67, 81
+  orig: 97, 97
+  offset: 14, 10
+  index: -1
+class-icons/Star-moon
+  rotate: false
+  xy: 1958, 1588
+  size: 89, 83
+  orig: 97, 97
+  offset: 4, 7
+  index: -1
